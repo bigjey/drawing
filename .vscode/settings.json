@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "glfw3.h": "c",
+    "gl.h": "c",
+    "assert.h": "c",
+    "math.h": "c"
+  },
+  "C_Cpp.default.includePath": [
+    "C:\\Users\\bj\\Downloads\\glfw-3.3.8\\include",
+    "C:\\Users\\bj\\Downloads\\glfw-3.3.8\\deps"
+  ]
+}
